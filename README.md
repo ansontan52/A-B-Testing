@@ -1,8 +1,7 @@
 # A/B Testing on Marketing Campaigns 
 
-A/B测试常用于比较不同设计、运营方案的优劣，以辅助决策。
 
-## 1. 数据来源
+## 1.Dataset Description
 The dataset was collected from two marketing campaigns in Alipay.
 
 https://tianchi.aliyun.com/dataset/dataDetail?dataId=50893
